@@ -1,0 +1,14 @@
+*.conf
+*.cp
+*.log
+*.zip
+*.swp
+Corefile
+.DS_Store
+coredns/
+bin/
+.idea/
+pf/darwin-xnu/
+
+systemd/*.service
+
